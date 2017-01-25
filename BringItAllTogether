@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<a href="#Gospel">Gospel</a> <a href="#R&B">R&B</a> <a href="#Afrobeats">Afrobeats</a></p>
+
+<h2 id="Gospel">Gospel</h2>
+<a href="#R&B">R&B</a>
+<a href="#Afrobeats">Afrobeats</a>
+<body>
+<ol>
+  <li><img src="https://gospelgoodies.com/wp-content/uploads/2016/05/ChT786AU0AA9kJ8.jpg" alt="Glorious God"style="width:225px;height:225px;"></li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/en/3/35/Kirk_Franklin_Hello_Fear.jpg" alt="Kirk Franklin"style="width:225px;height:225px;"></li>
+  <li><img src="http://www.charlotteobserver.com/living/religion/no3ms9/picture41874744/ALTERNATES/FREE_640/Travis%20Greene_The%20Hill_FINAL" alt="The Hill"style="width:225px;height:225px;"></li>
+</ol>
+</body>
+
+<h2 id="R&B">R&B</h2>
+<a href="#Gospel">Gospel</a>
+<a href="#Afrobeats">Afrobeats</a>
+<body>
+<ol>
+  <li><img src="https://img.discogs.com/ZXycu5vbtTtpkAPCky_4ZdMh-1w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-244851-1358049254-1907.jpeg.jpg" alt="Miseducation"style="width:225px;height:225px;"></li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Johnlegend-getlifted1.jpg/220px-Johnlegend-getlifted1.jpg" alt="Get Lifted"style="width:225px;height:225px;"></li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Jazmine_Sullivan_-_Reality_Show_(album_cover).jpg/220px-Jazmine_Sullivan_-_Reality_Show_(album_cover).jpg" alt="J. Sullivan"style="width:225px;height:225px;"></li>
+</ol>
+</body>
+
+<h2 id="Afrobeats">Afrobeats</h2>
+<body>
+<a href="#Gospel">Gospel</a>
+<a href="#R&B">R&B</a>
+<ol>
+  <li><img src="https://naijamusicpolice.files.wordpress.com/2014/04/sean-tizzle-the-journey-front-naijamusicpolice-wordpress-com_-1024x10241.jpg" alt="Sean Tizzle"style="width:225px;height:225px;"></li>
+  <li><img src="http://www.naijaextra.com/wp-content/uploads/2015/11/burna-boy-on-a-spaceship-art_www.Naijaextra.com_.jpg" alt="Burna Boy"style="width:225px;height:225px;"></li>
+  <li><img src="http://www.36ng.com.ng/wp-content/uploads/2015/11/Falz.jpg" alt="Falz"style="width:225px;height:225px;"></li>
+</ol>
+</body>
+
+
+</body>
+</html>
